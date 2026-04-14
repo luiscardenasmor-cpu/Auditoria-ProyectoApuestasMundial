@@ -31,14 +31,13 @@ Evaluar el estado tecnico y operativo del proyecto en dos frentes:
 - Se recomienda ejecutar el plan de 90 dias con seguimiento quincenal.
 
 ## Publicacion en GitHub
-Este repositorio fue preparado para publicacion como repositorio independiente.
+Repositorio publicado:
+- https://github.com/luiscardenasmor-cpu/Auditoria-ProyectoApuestasMundial
 
-Pasos recomendados (si aun no esta publicado):
-1. git init
-2. git add .
-3. git commit -m "docs: auditoria completa y plan de mejoras"
-4. gh repo create Auditoria-ProyectoApuestasMundial --public --source . --push
+Referencia del primer commit:
+- e627535 (docs: auditoria completa, roles y plan de mejoras)
 
 ## Estado
 - Version inicial de auditoria: 2026-04-14
+- Estado de publicacion: Publicado en GitHub
 - Responsable de auditoria: Auditor Principal de Proyectos de Software (asistido por equipo de roles definidos)
