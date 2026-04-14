@@ -23,6 +23,7 @@ Evaluar el estado tecnico y operativo del proyecto en dos frentes:
   - plan-priorizado-90-dias.md
   - checklist-hardening-seguridad.md
   - estrategia-testing-ci.md
+  - tablero-ejecucion-sprint-2-semanas.md
 
 ## Principales conclusiones
 - El proyecto tiene base modular valida para evolucion.
